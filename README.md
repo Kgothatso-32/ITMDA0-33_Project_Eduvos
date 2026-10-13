@@ -1,2 +1,3 @@
 # ITMDA0-33_Project_Eduvos
 Developing a MySQL database for the EduLaunch Career Readiness Platform to manage student accounts, career advisers, development programmes, enrolments, assessments, and digital career resources.
+Developing a MySQL database for the EduLaunch Career Readiness Platform that helps manage student accounts, career advisers, career-development programmes, enrolments, assessments, and digital career resources. This project will be implemented in MySQL and will cover Entity Relationship Diagram (ERD) design, table creation with validation constraints (UNIQUE, NOT NULL, DEFAULT, CHECK), views, stored procedures, triggers, indexing, and database backups.
